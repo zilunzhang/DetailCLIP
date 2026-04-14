@@ -1,0 +1,2 @@
+# DetailCLIP
+ICASSP2026 Paper
