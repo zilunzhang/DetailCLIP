@@ -1,4 +1,4 @@
 # DetailCLIP
-ICASSP2026 Oral Paper
+ICASSP2026 Poster Paper
 
 https://arxiv.org/abs/2208.14649
